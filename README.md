@@ -16,8 +16,10 @@ This is a C# based project which creates a command line tool to check whether th
            step 3: dotnet run
    ```
    
-3. See the fruit of the project;
+3. Be aware the newly created `Program.cs` file does not replace the file in this project, otherwise you can't see nothing!
 
-4. If you open it form Visual Studio, the main scripts are all in this repository.
+4. See the fruit of the project;
 
-5. The `SpellCheckerCheckedVersion.7z` is just a checked version under visual studio code environment.
+5. If you open it form Visual Studio, the main scripts are all in this repository.
+
+6. The `SpellCheckerCheckedVersion.7z` is just a checked version under visual studio code environment.
